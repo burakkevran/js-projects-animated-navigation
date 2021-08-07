@@ -2,11 +2,11 @@
 
 :root {
   --primaryColor: #fff;
-  --navColor1: #21292c;
-  --navColor2: #aa3e39;
-  --navColor3: #aa6e39;
-  --navColor4: #236267;
-  --navColor5: #2c8437;
+  --navColor1: #2B4970;
+  --navColor2: #3A3276;
+  --navColor3: #AA9239;
+  --navColor4: #AA7F39;
+  --navColor5: #AD8B0D;
 }
 
 html {
@@ -16,7 +16,7 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: 'Ubuntu', sans-serif;
 }
 
 /* --- Navigation Menu ------------------------------ */
@@ -74,7 +74,7 @@ section {
 }
 
 section#home {
-  background-image: url("https://images.unsplash.com/photo-1581453904507-626ddb717f14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2089&q=80");
+  background-image: url("https://images.unsplash.com/photo-1626624338615-ccd58b41f633?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80");
   background-size: cover;
   background-position: center center;
 }
